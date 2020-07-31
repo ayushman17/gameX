@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+<br />
+<p align="center">
+  <a>
+    <img src="web/icons/Icon-512.png" alt="Logo">
+  </a>
+
 ## Inspiration
 
 This application was developed following the tutorial made by Marcus Ng. The link to the tutorial video and it's repo will be avaliable below. 
