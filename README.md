@@ -5,7 +5,7 @@ A new Flutter project.
 <br />
 <p align="center">
   <a>
-    <img src="web/icons/banner" alt="Logo">
+    <img src="web/icons/banner.gif" alt="Logo">
   </a>
 
 ## Inspiration
